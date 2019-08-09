@@ -1,0 +1,23 @@
+{
+  "name": "node-decisiontree",
+  "version": "1.0.0",
+  "description": "Decision Tree with node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start" : "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "csvtojson": "^2.0.10",
+    "decision-tree": "^0.3.1",
+    "express": "^4.15.3",
+    "xlsx": "^0.15.0"
+  },  
+"engines": {
+    "node": "10.x"
+  }
+}
