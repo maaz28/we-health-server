@@ -14,7 +14,7 @@
     "cors": "^2.8.5",
     "csvtojson": "^2.0.10",
     "decision-tree": "^0.3.1",
-    "express": "^4.15.3",
+    "express": "^4.17.3",
     "xlsx": "^0.15.0"
   },  
 "engines": {
